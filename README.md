@@ -1,5 +1,3 @@
-# multi-vm-microservice
-
 # CSL7510: Virtualization and Cloud Computing  
 ### Assignment 1: Use VirtualBox to Create Multiple VMs, Connect These VMs, and Host One Microservice-Based Application  
 
