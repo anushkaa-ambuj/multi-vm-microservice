@@ -254,7 +254,7 @@ sudo apt install git python3 python3-pip python3-venv -y
 ---
 
 ## Architecture Design  
-![Architecture Design](images/A1/Architectures.jpg)
+![Architecture Design](architecture.jpg)
 
 ---
 
