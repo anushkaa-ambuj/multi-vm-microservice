@@ -109,7 +109,7 @@ In Ubuntu, open terminal and follow these steps:
     ```
 3. Create the Project Structure:  
     ```
-    flask-microservice/
+    multi-vm-microservice-setup/
     ├── app.py
     └── requirements.txt
     ```
