@@ -261,12 +261,5 @@ sudo apt install git python3 python3-pip python3-venv -y
 
 ---
 
-## Recorded Video Demo  
-- Link: [Video Demo]()
-
----
-
-## References  
-- [Chapter 6. Virtual Networking | Oracle VirtualBox](https://www.virtualbox.org/manual/ch06.html)  
-- [How VirtualBox 7.0 networking works](https://www.youtube.com/watch?v=Fhdxk4bmJCs)
-
+## Video Demo  
+- Link: [Video Demo](https://youtu.be/_Iz2R3jAg6A?si=h3YVP7IhoQdn1-Lf)
